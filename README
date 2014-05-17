@@ -1,1 +1,3 @@
-Implemented parallel depth first search using a thread pool. Placed 16/78 with an average solve time under 2 sec. Will provide maze files.
+Implemented parallel depth first search using a thread pool. Placed 16/78 with an average solve time under 2 sec. Will provide maze files. 
+
+Specifically implemented algorithm in StudentMTMazeSolver.java
