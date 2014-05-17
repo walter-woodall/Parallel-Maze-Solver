@@ -1,0 +1,1 @@
+Implemented parallel depth first search using a thread pool. Placed 16/78 with an average solve time under 2 sec. Will provide maze files.
